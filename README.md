@@ -12,7 +12,7 @@ This repository contains Python programs demonstrating **Object-Oriented Program
 ✅ 4. Encapsulation  
 ✅ 5. Abstraction  
 ✅ 6. Method Overriding  
-✅ 7. Real-World OOP Applications  
+
 
 ## 🔥 How to Use
 1. Click on any `.py` file to view the code.
