@@ -1,5 +1,8 @@
 
 # Understanding Abstraction
+""" to concentrate on the core functionality of an object without getting entangled in the intricacies of its implementation. 
+Python's abc module (Abstract Base Classes) takes this a step further by enabling to define abstract base classes. 
+These classes serve as blueprints for other classes, outlining essential methods that concrete subclasses must implement."""
 
 from abc import ABC, abstractmethod
 
